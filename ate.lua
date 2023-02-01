@@ -1183,6 +1183,11 @@ Section:NewButton("Lightning", "", function()
     game:GetService("ReplicatedStorage").Lightning:FireServer()
 end)
 
+
+Section:NewButton("Get all Badges", "", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/27QBYUGG'))()
+end)
+
 local Tab = Window:NewTab("Teleports")
 local Section = Tab:NewSection("Places")
 
@@ -1446,7 +1451,9 @@ game:GetService("ReplicatedStorage").Remotes.SellItem:FireServer(unpack(args))
 end)
     local Tab = Window:NewTab("Others")
 local Section = Tab:NewSection("Misc")
-
+Section:NewButton("Drakey's Magic V.2", "drakey#9861", function()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/drake-1234/SCRIPTING/main/WC'))()
+     end)
 Section:NewButton("Infinite Yield", "Admin", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 
