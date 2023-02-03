@@ -1137,7 +1137,190 @@ local args = {
 
 game:GetService("ReplicatedStorage").FreezeFire:FireServer(unpack(args))
 end)
-
+Section:NewButton("Make yourself immortal", "", function()
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+    local args = {
+        [1] = game:GetService("Players")["LocalPlayer"].Character.HitPart
+        
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("SoulFire"):FireServer(unpack(args))
+    wait(.75)
+end)
 Section:NewTextBox("Voodoo Someone", "", function(txt)
     local Players = game:GetService("Players")
     local msg = txt
